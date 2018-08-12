@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CKStaging_API_Posts", "..\..\..\..\Desktop\ULIntegrate\CKI\CKI_Project_02\CKI_Project_01\CKStaging_API_Posts.dtproj", "{C2B49E8A-ABC6-4592-A38B-24E3444C7DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B49E8A-ABC6-4592-A38B-24E3444C7DF2}.Development|Default.ActiveCfg = Development
+		{C2B49E8A-ABC6-4592-A38B-24E3444C7DF2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556C58A2-7740-4926-B55C-D6D214FE3451}
+	EndGlobalSection
+EndGlobal
